@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Create-by: Benjamin Condori Vasquez
+main-Class: Bienvenida
+X-COMMENT: Curso Java
+
